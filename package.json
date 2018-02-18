@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-styled-jsx-repl",
+  "version": "0.1.0",
+  "description": "Proxy package to use styled-jsx in the Babel repl",
+  "main": "index.js",
+  "keywords": [
+    "babel-plugin",
+    "styled-jsx",
+    "css-in-js",
+    "babel"
+  ],
+  "author": "Giuseppe Gurgone",
+  "license": "MIT",
+  "dependencies": {
+    "styled-jsx": "*"
+  }
+}
